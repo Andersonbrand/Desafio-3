@@ -33,6 +33,7 @@ header {
     letter-spacing: 1px;
     color: #FFFFFF;
     cursor: pointer;
+    opacity: 0.9;
 }
 
 .logo-image {
